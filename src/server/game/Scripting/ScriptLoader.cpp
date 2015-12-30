@@ -1414,6 +1414,7 @@ void AddBattlegroundScripts()
 
 void AddSC_PWS_Transmogrification();
 void AddSC_CS_Transmogrification();
+void AddSC_Npc_Beastmaster();
 #endif
 
 void AddCustomScripts()
@@ -1423,5 +1424,6 @@ void AddCustomScripts()
 
     AddSC_PWS_Transmogrification();
     AddSC_CS_Transmogrification();
+    AddSC_Npc_Beastmaster();
 #endif
 }
