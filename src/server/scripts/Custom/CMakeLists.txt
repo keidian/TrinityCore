@@ -16,6 +16,7 @@ set(scripts_STAT_SRCS
     Custom/Transmog/Transmogrification.h
     Custom/Transmog/Transmogrification.cpp
     Custom/Transmog/Transmogrifier.cpp
+    Custom/Beastmaster.cpp
 )
 
 message("  -> Prepared: Custom")
