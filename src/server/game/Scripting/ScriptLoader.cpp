@@ -1413,6 +1413,7 @@ void AddBattlegroundScripts()
 /* This is where custom scripts' loading functions should be declared. */
 
 void AddSC_NPC_TransmogDisplayVendor();
+void AddSC_Npc_Beastmaster();
 #endif
 
 void AddCustomScripts()
@@ -1421,5 +1422,6 @@ void AddCustomScripts()
     /* This is where custom scripts should be added. */
 
     AddSC_NPC_TransmogDisplayVendor();
+    AddSC_Npc_Beastmaster();
 #endif
 }
