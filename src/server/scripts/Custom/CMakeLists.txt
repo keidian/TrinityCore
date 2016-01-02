@@ -15,7 +15,7 @@ set(scripts_STAT_SRCS
 #  ${sources_Custom}
   Custom/TransmogDisplayVendor/TransmogDisplayVendorConf.h
   Custom/TransmogDisplayVendor/TransmogDisplayVendor.cpp
-  Custom/Beastmaster/Beastmaster.cpp
+  Custom/TransmogDisplayVendor/Beastmaster.cpp
 )
 
 message("  -> Prepared: Custom")
